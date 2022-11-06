@@ -8,42 +8,50 @@ import Link from "next/link";
 import winnr from "../public/winnr.png";
 import Hangman from "../public/hangman.png";
 import itunesAPI from "../public/itunes.png";
+import SurfJournal from "../public/readme-home.PNG";
 import Image from "next/image";
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
+      title: "Surf Journal",
+      imageSrc: SurfJournal,
+      url: "https://github.com/dmitchley/Surf-Journal",
+    },
+
+    {
+      id: 2,
       title: "Fakealot",
       imageSrc: Fakealot,
       url: "https://github.com/dmitchley/Ecommerce-Store---Vanilla-JS-",
     },
     {
-      id: 2,
+      id: 3,
       title: "Eos Dance School - Mobile App",
       imageSrc: eosApp,
       url: "https://github.com/dmitchley/eos_application",
     },
     {
-      id: 3,
+      id: 4,
       title: "Eos Dance School - Dashboard",
       imageSrc: eosdashboard,
       url: "https://github.com/dmitchley/eos_adminpanel",
     },
     {
-      id: 4,
+      id: 5,
       title: "Betting Application",
       imageSrc: winnr,
       url: "https://github.com/dmitchley/WinnR",
     },
     {
-      id: 5,
+      id: 6,
       title: "Hangman Game",
       imageSrc: Hangman,
       url: "https://hyperion-hangman.herokuapp.com/",
     },
     {
-      id: 6,
+      id: 7,
       title: "iTunes API",
       imageSrc: itunesAPI,
       url: "https://hyperionitunes.herokuapp.com/",
