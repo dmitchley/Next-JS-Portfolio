@@ -16,7 +16,7 @@ const About = () => {
             <div className="shadow-xl shadow-blue-300 my-8 px-8">
               <p className="py-4 max-w-2xl mx-auto">
                 I grew up on the East Coast of South Africa however I now live
-                in Beautiful Cape Town. I am currently doing a Bootcamp at
+                in Beautiful Cape Town. I recently completed a Bootcamp at
                 Hyperion Development and look forward to what the future has in
                 store! I am Proficient in HTML, CSS, Javascript and UI Design
                 with more than 8 years of freelance experience. I love designing
