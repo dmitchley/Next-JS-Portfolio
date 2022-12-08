@@ -26,35 +26,18 @@ const Portfolio = () => {
       imageSrc: Fakealot,
       url: "https://github.com/dmitchley/Ecommerce-Store---Vanilla-JS-",
     },
+  
     {
       id: 3,
-      title: "Eos Dance School - Mobile App",
-      imageSrc: eosApp,
-      url: "https://github.com/dmitchley/eos_application",
+      title: "Hangman Game",
+      imageSrc: Hangman,
+      url: "https://hang-man-blue.vercel.app/",
     },
     {
       id: 4,
-      title: "Eos Dance School - Dashboard",
-      imageSrc: eosdashboard,
-      url: "https://github.com/dmitchley/eos_adminpanel",
-    },
-    {
-      id: 5,
-      title: "Betting Application",
-      imageSrc: winnr,
-      url: "https://github.com/dmitchley/WinnR",
-    },
-    {
-      id: 6,
-      title: "Hangman Game",
-      imageSrc: Hangman,
-      url: "https://hyperion-hangman.herokuapp.com/",
-    },
-    {
-      id: 7,
       title: "iTunes API",
       imageSrc: itunesAPI,
-      url: "https://hyperionitunes.herokuapp.com/",
+      url: "https://i-tunes-search-app-react.vercel.app/",
     },
   ];
 
