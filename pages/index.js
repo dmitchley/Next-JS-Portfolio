@@ -18,8 +18,7 @@ export default function Home() {
             </h1>
 
             <p className="text-gray-600 text-xl max-w-sm mx-auto">
-              I am Proficient in HTML, CSS, Javascript and UI Design with more
-              than 8 years of freelance experience.
+              I am Proficient in HTML, CSS, Javascript and UI Design.
             </p>
 
             <Link href="/Portfolio">
